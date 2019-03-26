@@ -10,6 +10,9 @@ wp-content/uploads/
 wp-content/mu-plugins/
 wp-content/wp-cache-config.php
 wp-content/plugins/hello.php
+wp-content/themes/themes/mwd-child/header.php
+wp-content/themes/themes/mwd-child/footer.php
+wp-content/themes/themes/mwd-child/style.css
 
 /.htaccess
 /license.txt
